@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, am Alex 👋
+Glad to meet you https://www.instagram.com/alexwispy
 <!--
 **alexwispy/alexwispy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
