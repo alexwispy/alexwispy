@@ -1,5 +1,5 @@
 ### Hi there, am Alex 👋
-Glad to meet you <a src='https://www.instagram.com/alexwispy'>@alexwispy</a>
+Glad to meet you <a href='https://www.instagram.com/alexwispy'>@alexwispy</a>
 <!--
 **alexwispy/alexwispy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
